@@ -1,4 +1,4 @@
-# Welcome to the [YourFirstPull] Repository!
+# Welcome to the YourFirstPull Repository!
 
 We're excited to have you here! This project is beginner-friendly, and we encourage you to contribute by opening your first pull request.
 
