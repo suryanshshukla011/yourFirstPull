@@ -30,6 +30,27 @@ git commit -m "Add a brief description of your changes"
 
 git push origin your-feature-branch
 
+### A Simple Task To Add You in our Contributors List
+
+I think a Assigning a good task to you will make you more better tounderstand How Github Flow Works.
+
+This Is a simple Task to all the beginners who Wants to get into Our YourFirstPull Project.
+This is how you can do it :
+- 
+1. Fork Our Repo as it is mentioned in our Readme file .
+2. Then go to the 'Contributors.md'
+3. there You Fill Found Lots of Contributors You have to add your Name there
+4. YOu name must not be in the Starting of the file .
+
+   Process to Add Your Name :
+   -
+   1. [Your Name](Link to Your Profile)
+   2. [Your Proflie Photo](Link Of your Profile Photo)
+
+   You will get These Lines in 'Contributors.md' just Copy them a fill Your Details with it.
+   - HOW TO GET PROFILE LINK : in Github open Your Profile Tab then Copy the link
+   - HOW TO GET PROFILE PHOTO LINK : in same Page on the top of the Lest corner you will find your profile photo just Right click to your mouse and copy image link and Paste it To Here.
+
 ### Create a Pull Request :
     
   Visit your forked repository on GitHub.
@@ -38,6 +59,11 @@ git push origin your-feature-branch
     Click on the "Create pull request" button.
 
 Congratulations! You've opened your first pull request.
+
+### Our Other Projects By Contributoers 
+After Adding your name in contributors list, you can also add your first Easy Programming Projects To here.
+You Can Find Our Projects in Projects Folder of this Repo Where Are Various Projects From our contributors YOu can also add yours in that Folder Just By Sending a Pull Request To Us. 
+It is not mandatory But it will give You More Programming knowledge with Zero Cost.
 
 ### Code of Conduct
 
